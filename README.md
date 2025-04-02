@@ -43,9 +43,9 @@ Since 1999, I have been immersed in the world of software development, engaging 
 ### Recent Projects
 
 - [Botfy](https://botfy.ai/)
-- [INFINITIBANK API](https://hmlapi-cartoes.infinitibank.services/redoc)
-- [INFINITIBANK Caixa API](https://api-caixa.infinitibank.services/redoc)
-- [INFINITIBANK Pix API](https://api-pix.infinitibank.services/redoc)
+- [INFINITIBANK API]
+- [INFINITIBANK Caixa API]
+- [INFINITIBANK Pix API]
 
 ### Certifications & Courses
 
